@@ -1,7 +1,9 @@
 # Dynamic creation of Redux Types and action creators
 
 Here is the following function which takes takes two parameters
+
 1 first parameter is the object which contains the list of your types or action creations
+
 2 second is the returned object which is object used to returned by the action creation function.
 
 let's have a look at the Action creator
